@@ -20,7 +20,6 @@
 <a href="https://www.youtube.com/c/asadgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asadgamer" height="30" width="40" /></a>
 <a href="https://discord.gg/Asad Gamer#7496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Asad Gamer#7496" height="30" width="40" /></a>
 </p>
-<p>&nbsp;</p>
 <!---end of contact info --->
 
 <!---languages and tools --->
@@ -31,12 +30,14 @@
 <!---end of languages and tools --->
 
 <!---github add-ons --->
+
 <p align="center">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadgamer&show_icons=true&locale=en" alt="asadgamer" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadgamer&" alt="asadgamer" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadgamer&show_icons=true&locale=en&layout=compact" alt="asadgamer" /></p>
-<p>&nbsp;</p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadgamer&show_icons=true&locale=en&layout=compact" alt="asadgamer" />
+</p>
 <!---end of github add-ons --->
 
 <!---views counter --->
