@@ -18,6 +18,7 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadgamer&show_icons=true&locale=en" alt="asadgamer" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadgamer&" alt="asadgamer" />
 </p>
+<p>&nbsp;</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadgamer&show_icons=true&locale=en&layout=compact" alt="asadgamer" /></p>
 <p>&nbsp;</p>
 <!---end of github add-ons --->
