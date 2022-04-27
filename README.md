@@ -32,8 +32,8 @@
 <!---github add-ons --->
 
 <p align="center">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadgamer&show_icons=true&locale=en" alt="asadgamer" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadgamer&" alt="asadgamer" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadgamer&&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asadgamer" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadgamer&&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asadgamer" />
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadgamer&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asadgamer" /></p>
