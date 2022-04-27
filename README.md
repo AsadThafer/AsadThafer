@@ -18,12 +18,13 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadgamer&show_icons=true&locale=en" alt="asadgamer" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadgamer&" alt="asadgamer" />
 </p>
-<p>&nbsp;</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadgamer&show_icons=true&locale=en&layout=compact" alt="asadgamer" /></p>
 <p>&nbsp;</p>
 <!---end of github add-ons --->
 <!---contact info --->
+<p>
 <h3 align="left">Connect with me:</h3>
+</p>
 <p align="left">
 <a href="https://twitter.com/asadgamer07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asadgamer07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asad asad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asad asad" height="30" width="40" /></a>
