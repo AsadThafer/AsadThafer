@@ -23,9 +23,6 @@
 <a href="https://discord.gg/Asad Gamer#7496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Asad Gamer#7496" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadgamer&show_icons=true&locale=en&layout=compact" alt="asadgamer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadgamer&show_icons=true&locale=en" alt="asadgamer" /></p>
 
 <h1 align="center"></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asadgamer&label=Profile%20views&color=0e75b6&style=flat" alt="asadgamer" /> </p>
