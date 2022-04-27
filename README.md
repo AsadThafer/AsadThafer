@@ -35,12 +35,11 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadgamer&show_icons=true&locale=en" alt="asadgamer" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadgamer&" alt="asadgamer" />
 </p>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadgamer&show_icons=true&locale=en&layout=compact" alt="asadgamer" />
-</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadgamer&show_icons=true&locale=en&&locale=en&layout=compact&theme=tokyonight" alt="asadgamer" /></p>
 <!---end of github add-ons --->
 
 <!---views counter --->
-<p><h1 align="center"></h1></p>
+<h1 align="center"></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asadgamer&label=Profile%20views&color=0e75b6&style=flat" alt="asadgamer" /> </p>
 <!---end of views counter --->
