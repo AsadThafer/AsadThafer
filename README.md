@@ -40,6 +40,6 @@
 <!---end of github add-ons --->
 
 <!---views counter --->
-<h1 align="center"></h1>
+<p><h1 align="center"></h1></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asadgamer&label=Profile%20views&color=0e75b6&style=flat" alt="asadgamer" /> </p>
 <!---end of views counter --->
