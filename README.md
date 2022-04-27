@@ -32,14 +32,14 @@
 <!---github add-ons --->
 
 <p align="center">
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=asadgamer&&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asadgamer" />
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=asadgamer&&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asadgamer"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=asadthafer&&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asadthafer" />
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=asadthafer&&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asadthafer"/>
 </p>
 <p align="center">
-<img align="center"width = "450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadgamer&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asadgamer" /></p>
+<img align="center"width = "450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadthafer&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asadthafer" /></p>
 <!---end of github add-ons --->
 
 <!---views counter --->
 <h1 align="center"></h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=asadgamer&label=Profile%20views&color=0e75b6&style=flat" alt="asadgamer" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asadthafer&label=Profile%20views&color=0e75b6&style=flat" alt="asadthafer" /> </p>
 <!---end of views counter --->
