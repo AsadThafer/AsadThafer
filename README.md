@@ -19,7 +19,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadgamer&" alt="asadgamer" />
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadgamer&show_icons=true&locale=en&layout=compact" alt="asadgamer" /></p>
-&nbsp;
+<p>&nbsp;</p>
 <!---end of github add-ons --->
 <!---contact info --->
 <h3 align="left">Connect with me:</h3>
