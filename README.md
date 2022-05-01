@@ -43,5 +43,3 @@
 <h1 align="center"></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asadthafer&label=Profile%20views&color=0e75b6&style=flat" alt="asadthafer" /> </p>
 <!---end of views counter --->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="asad-asad" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/asad-asad?trk=profile-badge">Asad Asad</a></div>
-              
