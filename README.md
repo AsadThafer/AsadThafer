@@ -18,7 +18,6 @@
  <a href="https://instagram.com/asad_gamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asad_gamer" height="30" width="40" /></a>
  <a href="https://twitter.com/asadgamer07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asadgamer07" height="30" width="40" /></a>
 <a href="https://medium.com/@asad.gamerz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asad.gamerz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/asadgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asadgamer" height="30" width="40" /></a>
 
 </p>
 <!---end of contact info --->
