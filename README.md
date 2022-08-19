@@ -3,7 +3,7 @@
 
 <!--- small info --->
 - 👀 I’m interested in Web & Python
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **JavaScript**
 - 📫 How to reach me **Asad.ThaferAsad@Gmail.com**
 <!--- end of small info --->
 
