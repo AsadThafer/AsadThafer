@@ -14,7 +14,7 @@
 <p align="left">
  <a href="https://www.linkedin.com/in/asad-asad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asad asad" height="30" width="40" /></a>
  <a href="https://discord.com/users/348823923460407298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Asad Gamer#7496" height="30" width="40" /></a>
- <a href="https://twitter.com/asadgamer07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asadgamer07" height="30" width="40" /></a>
+ <a href="https://twitter.com/Asad_Thafer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asadgamer07" height="30" width="40" /></a>
 <a href="https://medium.com/@asad.gamerz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asad.gamerz" height="30" width="40" /></a>
 
 </p>
